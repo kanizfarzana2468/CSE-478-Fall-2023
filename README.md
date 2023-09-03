@@ -2,13 +2,13 @@
 This is repository of Neural Network and Fuzzy Systems Lab
 
 
-Name:Kaniz Farzana
+Name: Kaniz Farzana
 
-Student Id:19202103413
+Student Id: 19202103413
 
-Intake:44
+Intake: 44
 
-Section:03
+Section: 03
 
-Course Teacher:Khan Md Hasib
+Course Teacher: Khan Md Hasib
 
